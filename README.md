@@ -11,3 +11,6 @@
 6. 테스트 케이스 작성
 
 스프링 학습의 제대로 된 첫 길잡이 역할
+
+**동작 환경**
+![image](https://github.com/user-attachments/assets/78ea2e57-4495-4869-a74c-a037c334f3b3)
