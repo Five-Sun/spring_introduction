@@ -15,7 +15,7 @@
 
 viewResolver가 화면을 찾아서 처리한다.
 
-**참고: spring-boot-devtools 라이브러리를 추가하면, html 파일을 컴파일만 해주면 서버 재시작 없이 View 파일 변경이 가능하다**
+참고: spring-boot-devtools 라이브러리를 추가하면, html 파일을 컴파일만 해주면 서버 재시작 없이 View 파일 변경이 가능하다
 
 ---
 빌드하고 실행하기(콘솔 이용)
@@ -27,12 +27,15 @@ viewResolver가 화면을 찾아서 처리한다.
 ---
 웹 개발 방식
 * 정적 컨텐츠
+
 ![image](https://github.com/user-attachments/assets/e1a561fa-01f0-4e57-9966-26561891bf3b)
 
 * MVC와 템플릿 엔진
+
 ![image](https://github.com/user-attachments/assets/eccbfa38-3bf5-4ca3-8f53-2e5ce6361829)
 
 
 * API 방식
+
 ![image](https://github.com/user-attachments/assets/36af28c0-63c6-4a28-88cc-71a24fac0384)
-* @ResponseBody를 사용하면 뷰 리졸버( viewResolver )를 사용하지 않음
+@ResponseBody를 사용하면 뷰 리졸버( viewResolver )를 사용하지 않음
