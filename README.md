@@ -33,5 +33,5 @@ viewResolver가 화면을 찾아서 처리한다.
 ![image](https://github.com/user-attachments/assets/eccbfa38-3bf5-4ca3-8f53-2e5ce6361829)
 
 * API 방식
-![image](https://github.com/user-attachments/assets/60a580c9-a918-4554-a6f8-def76d0a0bfe)
+![image](https://github.com/user-attachments/assets/36af28c0-63c6-4a28-88cc-71a24fac0384)
 * @ResponseBody를 사용하면 뷰 리졸버( viewResolver )를 사용하지 않음
